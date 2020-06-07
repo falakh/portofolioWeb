@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a9b082ca8784d9ea39227f939732510",
+    "revision": "95d8f37ac6edb2bdbfd8690c280a0955",
     "url": "/portofolioWeb/index.html"
   },
   {
-    "revision": "2de813d75b9f49aeb2bc",
+    "revision": "12b9636f33297587a825",
     "url": "/portofolioWeb/static/css/main.5f4d95d5.chunk.css"
   },
   {
-    "revision": "b11fa79bc8bd1644836e",
-    "url": "/portofolioWeb/static/js/2.fb75cd9f.chunk.js"
+    "revision": "34d0c6a255a948b5ef78",
+    "url": "/portofolioWeb/static/js/2.b1cb2461.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/portofolioWeb/static/js/2.fb75cd9f.chunk.js.LICENSE.txt"
+    "url": "/portofolioWeb/static/js/2.b1cb2461.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2de813d75b9f49aeb2bc",
-    "url": "/portofolioWeb/static/js/main.0515954f.chunk.js"
+    "revision": "12b9636f33297587a825",
+    "url": "/portofolioWeb/static/js/main.612535ec.chunk.js"
   },
   {
     "revision": "07debfaaf5a71a493a59",
@@ -42,5 +42,17 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/portofolioWeb/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "d4d6f7392125cd4f9de31f9a8574f8d6",
+    "url": "/portofolioWeb/static/media/iCanHealth.d4d6f739.jpg"
+  },
+  {
+    "revision": "dc60c3a7667f6d0198f3d2c53ffc9085",
+    "url": "/portofolioWeb/static/media/pp.dc60c3a7.jpg"
+  },
+  {
+    "revision": "9a1277ae22c35ca4ac25417bdc512484",
+    "url": "/portofolioWeb/static/media/sportest.9a1277ae.png"
   }
 ]);

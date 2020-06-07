@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/portofolioWeb/static/css/main.5f4d95d5.chunk.css",
-    "main.js": "/portofolioWeb/static/js/main.0515954f.chunk.js",
-    "main.js.map": "/portofolioWeb/static/js/main.0515954f.chunk.js.map",
+    "main.js": "/portofolioWeb/static/js/main.612535ec.chunk.js",
+    "main.js.map": "/portofolioWeb/static/js/main.612535ec.chunk.js.map",
     "runtime-main.js": "/portofolioWeb/static/js/runtime-main.c40c4983.js",
     "runtime-main.js.map": "/portofolioWeb/static/js/runtime-main.c40c4983.js.map",
-    "static/js/2.fb75cd9f.chunk.js": "/portofolioWeb/static/js/2.fb75cd9f.chunk.js",
-    "static/js/2.fb75cd9f.chunk.js.map": "/portofolioWeb/static/js/2.fb75cd9f.chunk.js.map",
+    "static/js/2.b1cb2461.chunk.js": "/portofolioWeb/static/js/2.b1cb2461.chunk.js",
+    "static/js/2.b1cb2461.chunk.js.map": "/portofolioWeb/static/js/2.b1cb2461.chunk.js.map",
     "index.html": "/portofolioWeb/index.html",
-    "precache-manifest.616a8c5e26e489deef1a7a4ed1db56c5.js": "/portofolioWeb/precache-manifest.616a8c5e26e489deef1a7a4ed1db56c5.js",
+    "precache-manifest.a7f5c3fd928ffbcc3233ea515d1ead47.js": "/portofolioWeb/precache-manifest.a7f5c3fd928ffbcc3233ea515d1ead47.js",
     "service-worker.js": "/portofolioWeb/service-worker.js",
     "static/css/main.5f4d95d5.chunk.css.map": "/portofolioWeb/static/css/main.5f4d95d5.chunk.css.map",
-    "static/js/2.fb75cd9f.chunk.js.LICENSE.txt": "/portofolioWeb/static/js/2.fb75cd9f.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/portofolioWeb/static/media/fontawesome-webfont.fee66e71.woff"
+    "static/js/2.b1cb2461.chunk.js.LICENSE.txt": "/portofolioWeb/static/js/2.b1cb2461.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/portofolioWeb/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/iCanHealth.jpg": "/portofolioWeb/static/media/iCanHealth.d4d6f739.jpg",
+    "static/media/pp.jpg": "/portofolioWeb/static/media/pp.dc60c3a7.jpg",
+    "static/media/sportest.png": "/portofolioWeb/static/media/sportest.9a1277ae.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c40c4983.js",
-    "static/js/2.fb75cd9f.chunk.js",
+    "static/js/2.b1cb2461.chunk.js",
     "static/css/main.5f4d95d5.chunk.css",
-    "static/js/main.0515954f.chunk.js"
+    "static/js/main.612535ec.chunk.js"
   ]
 }
