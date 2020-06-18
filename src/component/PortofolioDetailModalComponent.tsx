@@ -3,6 +3,7 @@ import { RootState } from "../redux/state";
 import { useSelector, useDispatch } from "react-redux";
 import { Modal, Row, Container, Table, Col } from "react-bootstrap";
 import { changeModalShowStatus } from "../redux/action/UIActionList";
+import { LinkIconComponent } from "./LinkIconComponent";
 
 export function PortofolioDetailModalComponent() {
   var uiState = (state: RootState) => state.ui;
@@ -49,9 +50,7 @@ export function PortofolioDetailModalComponent() {
               </Row>
               <Row>{reduxData.showedPortofolioData.tools}</Row>
               <Row>
-                  <a href={reduxData.showedPortofolioData.github ?? ""} target="_blank">
-                  <img src="https://cdn.brandicons.org/icons/github.svg" width={32} height={32}/>
-                  </a>
+                  {LinkIconComponent(reduxData.showedPortofolioData)}
               </Row>
               <Row></Row>
             </Container>

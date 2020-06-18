@@ -4,5 +4,5 @@ export default interface PortofolioProps{
     explanation : string,
     tools : string | null ,
     github: string | null,
-    link : string | null
+    link : string | null,
 }

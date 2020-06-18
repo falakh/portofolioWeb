@@ -20,6 +20,7 @@ export function PortofolioSection() {
         prevEl: ".swiper-button-prev",
       },
     });
+    
   });
 
   return (

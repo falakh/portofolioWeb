@@ -1,7 +1,9 @@
 import React from "react";
+import  logo from "../asset/pp.jpg"
 
 export function AboutMe() {
-  var addres = "pp.jpg";
+
+  // var addres = "pp.jpg";
   return (
     <header className="masthead bg-primary text-white text-center">
       <div className="container">
@@ -10,7 +12,7 @@ export function AboutMe() {
           alt="my self"
           height={256}
           className="img-fluid d-block mx-auto mb-5 rounded-circle"
-          src={addres}
+          src={logo}
          
         />
         <h1 >Zulfikar Fahmi Falakh</h1>
