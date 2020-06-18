@@ -1,27 +1,28 @@
 {
   "files": {
     "main.css": "/portofolioWeb/static/css/main.5f4d95d5.chunk.css",
-    "main.js": "/portofolioWeb/static/js/main.ae98b9bc.chunk.js",
-    "main.js.map": "/portofolioWeb/static/js/main.ae98b9bc.chunk.js.map",
+    "main.js": "/portofolioWeb/static/js/main.b73073e6.chunk.js",
+    "main.js.map": "/portofolioWeb/static/js/main.b73073e6.chunk.js.map",
     "runtime-main.js": "/portofolioWeb/static/js/runtime-main.c40c4983.js",
     "runtime-main.js.map": "/portofolioWeb/static/js/runtime-main.c40c4983.js.map",
-    "static/js/2.28ca3c90.chunk.js": "/portofolioWeb/static/js/2.28ca3c90.chunk.js",
-    "static/js/2.28ca3c90.chunk.js.map": "/portofolioWeb/static/js/2.28ca3c90.chunk.js.map",
+    "static/js/2.488674ad.chunk.js": "/portofolioWeb/static/js/2.488674ad.chunk.js",
+    "static/js/2.488674ad.chunk.js.map": "/portofolioWeb/static/js/2.488674ad.chunk.js.map",
     "index.html": "/portofolioWeb/index.html",
-    "precache-manifest.5c88e1236cfdd1c844c7ee711bac7887.js": "/portofolioWeb/precache-manifest.5c88e1236cfdd1c844c7ee711bac7887.js",
+    "precache-manifest.46d5ef4bfc688eb98ca92c0586352e1a.js": "/portofolioWeb/precache-manifest.46d5ef4bfc688eb98ca92c0586352e1a.js",
     "service-worker.js": "/portofolioWeb/service-worker.js",
     "static/css/main.5f4d95d5.chunk.css.map": "/portofolioWeb/static/css/main.5f4d95d5.chunk.css.map",
-    "static/js/2.28ca3c90.chunk.js.LICENSE.txt": "/portofolioWeb/static/js/2.28ca3c90.chunk.js.LICENSE.txt",
+    "static/js/2.488674ad.chunk.js.LICENSE.txt": "/portofolioWeb/static/js/2.488674ad.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/portofolioWeb/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/iCanHealth.jpg": "/portofolioWeb/static/media/iCanHealth.d4d6f739.jpg",
     "static/media/pintudoa.png": "/portofolioWeb/static/media/pintudoa.ed3ee3b6.png",
     "static/media/pp.jpg": "/portofolioWeb/static/media/pp.dc60c3a7.jpg",
+    "static/media/socket-io.png": "/portofolioWeb/static/media/socket-io.fa7ed621.png",
     "static/media/sportest.png": "/portofolioWeb/static/media/sportest.9a1277ae.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c40c4983.js",
-    "static/js/2.28ca3c90.chunk.js",
+    "static/js/2.488674ad.chunk.js",
     "static/css/main.5f4d95d5.chunk.css",
-    "static/js/main.ae98b9bc.chunk.js"
+    "static/js/main.b73073e6.chunk.js"
   ]
 }
