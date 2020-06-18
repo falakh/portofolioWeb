@@ -2,6 +2,7 @@ import PortofolioProps from "./portofolio";
 import iCanHealth from "../asset/iCanHealth.jpg"
 import sportest from "../asset/sportest.png"
 import pintoDoa from "../asset/pintudoa.png";
+import dicodingChat from '../asset/socket-io.png'
 
 export var portofolioList: PortofolioProps[]=
     [
@@ -28,17 +29,17 @@ export var portofolioList: PortofolioProps[]=
             name : "Sportest"
         },{
             tools: "PHP (Laravel), Javascript ",
-            link: "pintudoa.com",
+            link: null,
             github : null,
             explanation : "Merupakan aplikasi web untuk mengumpulkan bantuan dan memberikan bantuan keapda orang yang membutuhkan",
             image : pintoDoa,
             name : "Pintudoa"
         },{
             tools: "Node JS (Express JS), Vue js ",
-            link: "pintudoa.com",
-            github : null,
-            explanation : "Merupakan aplikasi web untuk mengumpulkan bantuan dan memberikan bantuan keapda orang yang membutuhkan",
-            image : pintoDoa,
-            name : "Pintudoa"
+            link: null,
+            github : "https://github.com/falakh/azure-node",
+            explanation : "Merupakan aplikasi web chatting yang dibuat untuk menyelesaikan kelas menjadi developer expert di dicoding.com",
+            image : dicodingChat,
+            name : "Dicoding Chat"
         }
     ]
