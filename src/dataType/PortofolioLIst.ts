@@ -4,8 +4,18 @@ import sportest from "../asset/sportest.png"
 import pintoDoa from "../asset/pintudoa.png";
 import dicodingChat from '../asset/socket-io.png'
 
-export var portofolioList: PortofolioProps[]=
+export const portofolioList: PortofolioProps[]=
     [
+        {
+            explanation : `
+            itemku is the biggest marketplace in the Indonesian online game community and has the "itemku Safe Trading" service which guarantees 100% safe trading. In itemku, safe trading is not the only thing that our buyers and sellers have, but they also have the easiness and convenience when doing their transactions.
+           `,
+            github:null,
+            image:"https://fivejack.com/images/itemku-logo.png",
+            link:"https://itemku.com/",
+            name:"itemku",
+            tools:"Next js, koa js" 
+        },
         {
             explanation : "Aplikasi ini dirancang di Malang oleh Iqbal Sholahudin Maududdy yang berkelahiran Surabaya, 28 agustus 1998. Seorang Mahasiswa Fakultas Kedokteran Universitas Brawijaya angkatan 2017. Dengan tujuan membantu orang tua dalam menambah wawasan terkait kesehatan anak. Dalam pembuatanya, data yang ada aplikasi ini telah di konsultasikan dengan dr. Irene Ratridewi Sp.A(K), M.Kes. Seorang dokter anak yang mengajar di Fakultas kedokteran Brawijaya dan Spesialis anak di RSSA Malang.",
             github:null,
