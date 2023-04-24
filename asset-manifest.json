@@ -1,28 +1,23 @@
 {
   "files": {
-    "main.css": "/portofolioWeb/static/css/main.5f4d95d5.chunk.css",
-    "main.js": "/portofolioWeb/static/js/main.b73073e6.chunk.js",
-    "main.js.map": "/portofolioWeb/static/js/main.b73073e6.chunk.js.map",
-    "runtime-main.js": "/portofolioWeb/static/js/runtime-main.c40c4983.js",
-    "runtime-main.js.map": "/portofolioWeb/static/js/runtime-main.c40c4983.js.map",
-    "static/js/2.488674ad.chunk.js": "/portofolioWeb/static/js/2.488674ad.chunk.js",
-    "static/js/2.488674ad.chunk.js.map": "/portofolioWeb/static/js/2.488674ad.chunk.js.map",
+    "main.css": "/portofolioWeb/static/css/main.3fcb3cdd.css",
+    "main.js": "/portofolioWeb/static/js/main.9941ec33.js",
+    "static/media/iCanHealth.jpg": "/portofolioWeb/static/media/iCanHealth.158e3502ca2d4628237f.jpg",
+    "static/media/fontawesome-webfont.svg": "/portofolioWeb/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
+    "static/media/pintudoa.png": "/portofolioWeb/static/media/pintudoa.072c208f51a4be2a15ac.png",
+    "static/media/fontawesome-webfont.eot": "/portofolioWeb/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf": "/portofolioWeb/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/socket-io.png": "/portofolioWeb/static/media/socket-io.f9f792b8793d9fbe0f0a.png",
+    "static/media/fontawesome-webfont.woff": "/portofolioWeb/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2": "/portofolioWeb/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/sportest.png": "/portofolioWeb/static/media/sportest.d7c43fe1a05e7428aeb1.png",
+    "static/media/pp.jpg": "/portofolioWeb/static/media/pp.a0b63f6144eeca942219.jpg",
     "index.html": "/portofolioWeb/index.html",
-    "precache-manifest.46d5ef4bfc688eb98ca92c0586352e1a.js": "/portofolioWeb/precache-manifest.46d5ef4bfc688eb98ca92c0586352e1a.js",
-    "service-worker.js": "/portofolioWeb/service-worker.js",
-    "static/css/main.5f4d95d5.chunk.css.map": "/portofolioWeb/static/css/main.5f4d95d5.chunk.css.map",
-    "static/js/2.488674ad.chunk.js.LICENSE.txt": "/portofolioWeb/static/js/2.488674ad.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/portofolioWeb/static/media/fontawesome-webfont.fee66e71.woff",
-    "static/media/iCanHealth.jpg": "/portofolioWeb/static/media/iCanHealth.d4d6f739.jpg",
-    "static/media/pintudoa.png": "/portofolioWeb/static/media/pintudoa.ed3ee3b6.png",
-    "static/media/pp.jpg": "/portofolioWeb/static/media/pp.dc60c3a7.jpg",
-    "static/media/socket-io.png": "/portofolioWeb/static/media/socket-io.fa7ed621.png",
-    "static/media/sportest.png": "/portofolioWeb/static/media/sportest.9a1277ae.png"
+    "main.3fcb3cdd.css.map": "/portofolioWeb/static/css/main.3fcb3cdd.css.map",
+    "main.9941ec33.js.map": "/portofolioWeb/static/js/main.9941ec33.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c40c4983.js",
-    "static/js/2.488674ad.chunk.js",
-    "static/css/main.5f4d95d5.chunk.css",
-    "static/js/main.b73073e6.chunk.js"
+    "static/css/main.3fcb3cdd.css",
+    "static/js/main.9941ec33.js"
   ]
 }
